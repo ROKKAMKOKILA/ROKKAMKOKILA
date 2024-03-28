@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects related to machine learning or web development.
 - 🤔 I'm looking for help with understanding advanced machine learning concepts and optimizing algorithms for efficient performance.
 - 💬 Ask me about my favorite coding languages, my experience with different frameworks, or my thoughts on the latest tech trends!
-- 📫 How to reach me: Feel free to shoot me an email at rajaraorokkam5@gmail.com or connect with me on LinkedIn.
+- 📫 How to reach me: Feel free to shoot me an email at rajaraorokkam5@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/rokkam-kokila-6a9a11260/
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact:  I can solve a Rubik's Cube in under a minute!
 
