@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **ROKKAMKOKILA/ROKKAMKOKILA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Feel free to shoot me an email at rajaraorokkam5@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact:  I can solve a Rubik's Cube in under a minute!
--->
+
